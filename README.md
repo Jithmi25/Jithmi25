@@ -1,9 +1,31 @@
-<h1 align="center">Hi 👋, I'm Jithmi</h1>
-<h3 align="center">Student of SUSL</h3>
+<h1 align="center">Hi 👋, I'm Jithmi Wickramasinghe</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=IT+Undergraduate;Full-Stack+Developer;"></a>
+</p>
 
-- 🌱 I’m currently undergraduate **BSc. Honors Degree in Computing & Information Systems**
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;  ***About me***
 
-<h3 align="left">Connect with me:</h3>
+<p>I'm passionate about using technology to solve problems and make life easier. My goal is to create accessible, user-friendly solutions that anyone can use, regardless of technical skills. I believe in the power of technology to improve lives and am committed to making it freely available to all.</p><br>
+- 🌱 I’m currently undergraduate BSc. Honors Degree in Computing & Information Systems<br>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jithmi25&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+</td>
+
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jithmi25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
+<br><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jithmi-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithmi-wickramasinghe" height="30" width="40" /></a>
 <a href="https://kaggle.com/macemagic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jithmi_25" height="30" width="40" /></a>

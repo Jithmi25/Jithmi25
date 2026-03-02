@@ -8,6 +8,8 @@
 
 <p>I'm passionate about using technology to solve problems and make life easier. My goal is to create accessible, user-friendly solutions that anyone can use, regardless of technical skills. I believe in the power of technology to improve lives and am committed to making it freely available to all.</p><br>
 - 🌱 I’m currently undergraduate BSc. Honors Degree in Computing & Information Systems<br>
+- 🤝 I’m a dedicated volunteer, contributing my time and skills to meaningful community and collaborative initiatives.<br>
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">

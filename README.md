@@ -19,11 +19,11 @@
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center"  src="https://awesome-github-stats.azurewebsites.net/user-stats/Jithmi25?theme=tokyonight" />
-  <br></br>
+  <br></br> 
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jithmi25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jithmi25&theme=transparent"/>
 </td>
 </tr>
 </table>

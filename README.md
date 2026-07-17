@@ -29,11 +29,26 @@
 </table>
 <!--- stats (end) -->
 <br><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jithmi-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithmi-wickramasinghe" height="30" width="40" /></a>
-<a href="https://medium.com/@jithmiwickramasinghe4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jithmiwickramasinghe4" height="30" width="40" /></a>
-<a href="https://youtube.com/@jithmiwickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jithmiwickramasinghe" height="30" width="40" /></a>
-</p>  
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="60">
+        <a href="https://linkedin.com/in/jithmi-wickramasinghe" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="60">
+        <a href="https://medium.com/@jithmiwickramasinghe4" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40"/>
+        </a>
+      </td>
+      <td align="center" width="60">
+        <a href="https://youtube.com/@jithmiwickramasinghe" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
